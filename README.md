@@ -1,220 +1,140 @@
-# Homes247 Premium Real Estate Image Processing Dashboard
+🏠 Homes247 Premium Image Processing System
 
-**Version:** 2.0 – Professional Edition  
-**Application Type:** Enterprise Streamlit Dashboard  
-**Processing Mode:** Unlimited Bulk Image Processing  
-**Statistics:** Persistent (All-time tracking)
+An advanced AI-powered Streamlit application for automating real estate image processing workflows including classification, enhancement, text removal, resizing, watermarking, and quality analysis.
 
----
+🚀 Features
+🔍 AI-Based Classification
+Automatically classifies images into:
+Floor Plan
+Master Plan
+Gallery
+Rejected
+🧹 OCR Text & Logo Removal
+Uses EasyOCR + OpenCV
+Removes:
+Watermarks
+Logos
+Edge text
+Legends (plans)
+🌟 Super Resolution (AI Upscaling)
+Powered by Real-ESRGAN
+Supports:
+×2, ×4 upscale
+Tile-based processing for large images
+📐 Smart Resize Engine
+Auto resize based on category:
+Floor Plan → 1500×1500
+Master Plan → 1640×860
+Gallery → 820×430
+🏷️ Watermark Integration
+Center-based watermark
+Adjustable opacity & size
+Auto compression after watermark
+📊 Quality Detection (Blur-Based)
+Uses Laplacian Variance
+Normalized to 500×500
+Classifies:
+Good Quality
+Bad Quality
+⚡ Batch Processing
+Process multiple images at once
+Full pipeline automation
+📦 Export & Reports
+CSV + JSON reports
+ZIP download with categorized images
+Session logs & analytics
+☁️ Cloud Upload (R2 Integration)
+Upload only Good Quality images
 
-## 1. Overview
+Structured storage:
 
-The **Homes247 Premium Real Estate Image Processing Dashboard** is an enterprise-level AI application designed to **process, classify, analyze, and organize large volumes of real-estate images** with **no limitations on quantity or file size**.
+category/filename
+🔄 Processing Pipeline
+Text Removal → Super Resolution → Resize → Watermark → Save
 
-The system integrates **AI-based image classification**, **advanced image quality analysis**, **automatic resizing**, **analytics dashboards**, and **exportable reports**, all delivered through a **modern, professional Streamlit interface**.
+✔ Fully automated
+✔ Error-handled
+✔ Scalable
 
-This solution is optimized for **high-volume production environments** commonly found in real-estate platforms and digital property portals.
-
----
-
-## 2. Core Capabilities
-
-### 2.1 Unlimited Bulk Processing
-- No limit on number of images per session
-- No file size restrictions (KB to GB+)
-- Designed for thousands of images in a single run
-
-### 2.2 AI-Driven Image Classification
-Images are automatically classified using a trained AI model into:
-- Floor Plan Images
-- Master Plan Images
-- Gallery Images
-- Rejected Images (low confidence)
-
-Classification acceptance is controlled via a **confidence threshold** configurable from the UI.
-
----
-
-### 2.3 Image Quality Assessment
-Each image undergoes a comprehensive quality evaluation based on:
-- Sharpness
-- Brightness
-- Contrast
-- Blur detection
-- Edge density
-
-A **final weighted quality score** determines whether an image is marked as:
-- **Good Quality**
-- **Bad Quality**
-
----
-
-### 2.4 Automatic Image Resizing
-
-| Category     | Output Resolution |
-|-------------|------------------|
-| Floor Plan  | 1500 × 1500       |
-| Master Plan | 1640 × 860        |
-| Gallery     | 820 × 430         |
-| Rejected    | Original size     |
-
-High-quality resizing is performed using **Lanczos resampling** while preserving aspect ratio.
-
----
-
-### 2.5 Persistent Statistics Tracking
-All processing statistics are stored persistently in a JSON file and maintained across sessions.
-
-Tracked metrics include:
-- Total images processed (all time)
-- Category-wise counts
-- Quality-wise counts
-- Number of processing sessions
-- First and last upload timestamps
-
-Statistics can be reset manually from the sidebar.
-
----
-
-### 2.6 Analytics & Visualization
-The dashboard provides:
-- Category distribution charts
-- Quality distribution pie charts
-- Confidence score histograms
-- Average quality per category
-- Real-time processing progress indicators
-
-All visualizations are rendered using **Plotly** with a dark professional theme.
-
----
-
-### 2.7 Reporting & Downloads
-Users can export results in multiple formats:
-- CSV Report
-- JSON Report
-- Excel Report (Results + Summary)
-- Complete ZIP Archive containing:
-  - Processed images
-  - Reports
-  - Auto-generated summary README
-
----
-
-## 3. Processing Pipeline
-
-```text
-Image Upload
-    ↓
-AI Classification (Confidence Threshold)
-    ↓
-Quality Assessment
-    ↓
-Category & Quality Assignment
-    ↓
-Auto Resize & Folder Organization
-    ↓
-Analytics, Reports & Downloads
-
-
-4. Project Structure
-Homes247_Image_Dashboard/
-│
-├── app.py                        # Main Streamlit application
-├── predict.py                    # AI image classification module
-├── processing_statistics.json    # Persistent statistics (auto-generated)
-│
-├── streamlit_output/
-│   ├── uploads/                  # Temporary uploaded images
-│   ├── floorplan/
-│   │   ├── good_quality/
-│   │   └── bad_quality/
-│   ├── masterplan/
-│   │   ├── good_quality/
-│   │   └── bad_quality/
-│   ├── gallery/
-│   │   ├── good_quality/
-│   │   └── bad_quality/
-│   └── rejected/
-│       ├── good_quality/
-│       └── bad_quality/
-│
-└── README.md
-
-5. Configuration Parameters
-5.1 Confidence Threshold
-
-Defines the minimum confidence required for AI classification.
-
-Configurable from sidebar
-
-Default value: 70%
-
-5.2 Quality Threshold
-
-Defines the minimum quality score for an image to be marked as Good Quality.
-
-Configurable from sidebar
-
-Default value: 50%
-
-6. Quality Scoring Model
-
-The final quality score is calculated using weighted metrics:
-
-Metric	Weight
-Sharpness	35%
-Brightness	15%
-Contrast	20%
-Blur Score	15%
-Edge Density	15%
-7. Technology Stack
-
+🧠 Technologies Used
 Frontend: Streamlit
-
-Backend: Python
-
-AI / ML: TensorFlow
-
-Image Processing: OpenCV, PIL
-
-Data Handling: Pandas, NumPy
-
-Visualization: Plotly
-
-Persistence: JSON
-
-Export Formats: CSV, JSON, Excel, ZIP
-
-8. Installation & Setup
-8.1 Create Virtual Environment (Recommended)
-python -m venv venv
-source venv/bin/activate      # Linux / macOS
-venv\Scripts\activate         # Windows
-
-8.2 Install Dependencies
-pip install streamlit tensorflow opencv-python pillow pandas numpy plotly openpyxl
-
-8.3 Run the Application
+AI/ML:
+TensorFlow (Image Classification)
+PyTorch (Real-ESRGAN, MobileNet)
+Computer Vision:
+OpenCV
+EasyOCR
+Image Processing:
+PIL (Pillow)
+Cloud:
+Cloudflare R2 (S3-compatible)
+📂 Project Structure
+├── app.py
+├── weights/
+├── api_output/
+│   ├── floorplan/
+│   ├── masterplan/
+│   ├── gallery/
+│   └── rejected/
+├── session_reports/
+├── upload_history.json
+├── api_processing_statistics.json
+└── watermark_logo.png
+⚙️ Installation
+1️⃣ Clone the Repository
+git clone <your-repo-link>
+cd project-folder
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+3️⃣ Run Application
 streamlit run app.py
+📌 Configuration
+Key Settings:
+Output Format: WEBP / JPEG / PNG
+Confidence Threshold
+Blur Threshold (default: 500)
+SR Model Selection
+Batch Processing Toggle
+📊 Quality Logic
+Uses Laplacian Variance
+Example:
+Sharp Image → ~2800 ✅
+Blurry Image → ~200 ❌
+📁 Output Naming Format
+CATEGORY-YYYYMMDD-HHMMSS.webp
 
-9. System Requirements
+Example:
 
-Python 3.8 or higher
+GALLERY-20260410-153045.webp
+📈 Reports Included
+Processing Summary
+Category-wise Distribution
+Quality Metrics
+Confidence Scores
+Text Removal %
+🔐 Error Handling
+Safe fallback for:
+OCR failure
+SR failure
+Image read issues
+Automatic retries for:
+File naming conflicts
+Model loading
+🌐 API & Server Integration
+Sends results to external server
+Supports:
+API Key authentication
+JSON payload
+☁️ Cloud Upload Logic
+Only uploads Good Quality images
+Skips invalid files
+Retry-safe mechanism
+🎯 Use Cases
+Real Estate Portals
+Property Listing Automation
+Bulk Image Optimization
+Image Cleaning & Standardization
+👨‍💻 Developed By
 
-Minimum 8 GB RAM recommended
-
-CPU or GPU supported
-
-Windows / Linux / macOS
-
-10. Additional Notes
-
-TensorFlow warnings are fully suppressed for clean logs
-
-Designed for enterprise-scale real-estate workflows
-
-Suitable for continuous production use
-
-No artificial processing or upload limits
-
-# developed by Middi Yogananda Reddy
+Midddi Yogananda Reddy
+📧 Email: yogireddymiddi2004@gmail.com
