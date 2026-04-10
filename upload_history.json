@@ -1,0 +1,1604 @@
+{
+  "uploads": [
+    {
+      "date": "2026-03-05 13:02:15",
+      "total": 36,
+      "floorplan": 12,
+      "masterplan": 12,
+      "gallery": 12,
+      "rejected": 0,
+      "good_quality": 33,
+      "bad_quality": 3
+    },
+    {
+      "date": "2026-03-05 13:59:03",
+      "total": 9,
+      "floorplan": 3,
+      "masterplan": 3,
+      "gallery": 3,
+      "rejected": 0,
+      "good_quality": 7,
+      "bad_quality": 2
+    },
+    {
+      "date": "2026-03-05 14:21:54",
+      "total": 9,
+      "floorplan": 3,
+      "masterplan": 3,
+      "gallery": 3,
+      "rejected": 0,
+      "good_quality": 7,
+      "bad_quality": 2
+    },
+    {
+      "date": "2026-03-05 16:53:34",
+      "total": 9,
+      "floorplan": 3,
+      "masterplan": 3,
+      "gallery": 3,
+      "rejected": 0,
+      "good_quality": 8,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-05 18:11:22",
+      "total": 4,
+      "floorplan": 0,
+      "masterplan": 4,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 4,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-06 10:22:24",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-06 10:41:26",
+      "total": 7,
+      "floorplan": 5,
+      "masterplan": 2,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 7,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-06 10:57:52",
+      "total": 20,
+      "floorplan": 10,
+      "masterplan": 6,
+      "gallery": 4,
+      "rejected": 0,
+      "good_quality": 18,
+      "bad_quality": 2
+    },
+    {
+      "date": "2026-03-06 11:08:44",
+      "total": 14,
+      "floorplan": 10,
+      "masterplan": 4,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 13,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-06 11:13:33",
+      "total": 14,
+      "floorplan": 10,
+      "masterplan": 4,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 13,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-06 11:47:40",
+      "total": 25,
+      "floorplan": 11,
+      "masterplan": 9,
+      "gallery": 5,
+      "rejected": 0,
+      "good_quality": 22,
+      "bad_quality": 3
+    },
+    {
+      "date": "2026-03-06 11:54:41",
+      "total": 25,
+      "floorplan": 11,
+      "masterplan": 9,
+      "gallery": 5,
+      "rejected": 0,
+      "good_quality": 22,
+      "bad_quality": 3
+    },
+    {
+      "date": "2026-03-06 17:47:00",
+      "total": 36,
+      "floorplan": 12,
+      "masterplan": 12,
+      "gallery": 12,
+      "rejected": 0,
+      "good_quality": 30,
+      "bad_quality": 6
+    },
+    {
+      "date": "2026-03-07 10:53:16",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-07 12:45:38",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-07 12:55:13",
+      "total": 2,
+      "floorplan": 0,
+      "masterplan": 1,
+      "gallery": 1,
+      "rejected": 0,
+      "good_quality": 2,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-07 15:48:45",
+      "total": 8,
+      "floorplan": 5,
+      "masterplan": 2,
+      "gallery": 1,
+      "rejected": 0,
+      "good_quality": 8,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-07 16:47:09",
+      "total": 6,
+      "floorplan": 5,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 6,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-07 17:29:44",
+      "total": 42,
+      "floorplan": 17,
+      "masterplan": 13,
+      "gallery": 12,
+      "rejected": 0,
+      "good_quality": 29,
+      "bad_quality": 13
+    },
+    {
+      "date": "2026-03-07 17:51:20",
+      "total": 10,
+      "floorplan": 9,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 7,
+      "bad_quality": 3
+    },
+    {
+      "date": "2026-03-07 17:56:07",
+      "total": 7,
+      "floorplan": 7,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 5,
+      "bad_quality": 2
+    },
+    {
+      "date": "2026-03-07 18:01:33",
+      "total": 5,
+      "floorplan": 5,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 3,
+      "bad_quality": 2
+    },
+    {
+      "date": "2026-03-07 18:20:02",
+      "total": 7,
+      "floorplan": 7,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 4,
+      "bad_quality": 3
+    },
+    {
+      "date": "2026-03-07 18:27:12",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-09 09:53:08",
+      "total": 7,
+      "floorplan": 7,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 4,
+      "bad_quality": 3
+    },
+    {
+      "date": "2026-03-09 10:07:28",
+      "total": 7,
+      "floorplan": 7,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 5,
+      "bad_quality": 2
+    },
+    {
+      "date": "2026-03-09 10:12:44",
+      "total": 7,
+      "floorplan": 6,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 5,
+      "bad_quality": 2
+    },
+    {
+      "date": "2026-03-09 10:25:03",
+      "total": 10,
+      "floorplan": 8,
+      "masterplan": 2,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 8,
+      "bad_quality": 2
+    },
+    {
+      "date": "2026-03-09 10:32:15",
+      "total": 7,
+      "floorplan": 7,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 5,
+      "bad_quality": 2
+    },
+    {
+      "date": "2026-03-09 17:51:43",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-10 09:59:34",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-10 10:05:58",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-10 10:07:15",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-10 10:09:34",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-10 10:27:20",
+      "total": 66,
+      "floorplan": 1,
+      "masterplan": 5,
+      "gallery": 60,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 66
+    },
+    {
+      "date": "2026-03-10 10:36:36",
+      "total": 36,
+      "floorplan": 12,
+      "masterplan": 12,
+      "gallery": 12,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 36
+    },
+    {
+      "date": "2026-03-10 10:44:00",
+      "total": 36,
+      "floorplan": 12,
+      "masterplan": 12,
+      "gallery": 12,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 36
+    },
+    {
+      "date": "2026-03-10 10:47:10",
+      "total": 3,
+      "floorplan": 3,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 3,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-11 16:51:47",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-11 16:56:58",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-11 16:58:18",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-11 17:16:24",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-11 17:23:49",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-11 17:32:11",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-11 17:38:55",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-11 17:40:00",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-11 18:24:28",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-11 18:25:35",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 10:12:52",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 10:25:24",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 10:26:08",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 10:37:36",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 10:40:10",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 11:16:52",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 12:26:42",
+      "total": 2,
+      "floorplan": 1,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 2,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 13:11:09",
+      "total": 17,
+      "floorplan": 6,
+      "masterplan": 8,
+      "gallery": 3,
+      "rejected": 0,
+      "good_quality": 17,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 13:56:41",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 14:16:55",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 14:25:19",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 14:43:58",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 14:48:25",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 14:54:50",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 15:14:31",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 15:31:05",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 1,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 15:42:34",
+      "total": 36,
+      "floorplan": 12,
+      "masterplan": 12,
+      "gallery": 12,
+      "rejected": 0,
+      "good_quality": 36,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 16:13:06",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 16:15:34",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 16:34:55",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 16:55:13",
+      "total": 6,
+      "floorplan": 0,
+      "masterplan": 4,
+      "gallery": 2,
+      "rejected": 0,
+      "good_quality": 5,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-12 17:12:58",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 1,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 17:14:43",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 17:15:39",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 17:28:30",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 18:07:47",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 18:14:09",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 18:19:49",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-12 18:22:05",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 10:05:11",
+      "total": 4,
+      "floorplan": 1,
+      "masterplan": 3,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 4,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 10:25:58",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 10:37:07",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 10:47:47",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 10:49:23",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 10:49:51",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 10:51:37",
+      "total": 2,
+      "floorplan": 0,
+      "masterplan": 2,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 2,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 10:54:52",
+      "total": 5,
+      "floorplan": 5,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 5,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 11:07:59",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 11:37:29",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 12:57:05",
+      "total": 15,
+      "floorplan": 6,
+      "masterplan": 6,
+      "gallery": 3,
+      "rejected": 0,
+      "good_quality": 15,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 13:54:15",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 14:21:43",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 14:41:41",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 14:58:51",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 15:10:59",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 15:19:55",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 15:22:32",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 15:31:32",
+      "total": 8,
+      "floorplan": 5,
+      "masterplan": 2,
+      "gallery": 1,
+      "rejected": 0,
+      "good_quality": 8,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 15:41:15",
+      "total": 8,
+      "floorplan": 5,
+      "masterplan": 2,
+      "gallery": 1,
+      "rejected": 0,
+      "good_quality": 8,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 17:13:27",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 17:14:14",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 17:15:13",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 17:18:44",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 17:44:52",
+      "total": 15,
+      "floorplan": 14,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 6,
+      "bad_quality": 9
+    },
+    {
+      "date": "2026-03-13 18:03:24",
+      "total": 18,
+      "floorplan": 17,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 9,
+      "bad_quality": 9
+    },
+    {
+      "date": "2026-03-13 18:09:35",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 18:18:05",
+      "total": 18,
+      "floorplan": 14,
+      "masterplan": 2,
+      "gallery": 2,
+      "rejected": 0,
+      "good_quality": 6,
+      "bad_quality": 12
+    },
+    {
+      "date": "2026-03-13 18:26:09",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-13 18:40:45",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-14 12:09:36",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-14 12:10:01",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-14 12:11:30",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-14 12:18:12",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-14 12:32:36",
+      "total": 2,
+      "floorplan": 0,
+      "masterplan": 2,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 2,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-14 12:43:44",
+      "total": 2,
+      "floorplan": 2,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-14 12:48:51",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-14 12:53:39",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-14 12:55:05",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-14 12:55:59",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-14 12:56:26",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-14 12:57:06",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 1
+    },
+    {
+      "date": "2026-03-14 13:09:20",
+      "total": 148,
+      "floorplan": 5,
+      "masterplan": 23,
+      "gallery": 120,
+      "rejected": 0,
+      "good_quality": 14,
+      "bad_quality": 134
+    },
+    {
+      "date": "2026-03-14 14:10:20",
+      "total": 111,
+      "floorplan": 0,
+      "masterplan": 5,
+      "gallery": 106,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 111
+    },
+    {
+      "date": "2026-03-14 14:15:37",
+      "total": 111,
+      "floorplan": 0,
+      "masterplan": 5,
+      "gallery": 106,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 111
+    },
+    {
+      "date": "2026-03-14 14:21:09",
+      "total": 111,
+      "floorplan": 0,
+      "masterplan": 5,
+      "gallery": 106,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 111
+    },
+    {
+      "date": "2026-03-14 14:25:06",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-14 14:25:16",
+      "total": 0,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-14 14:35:34",
+      "total": 4,
+      "floorplan": 3,
+      "masterplan": 1,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 4
+    },
+    {
+      "date": "2026-03-14 14:52:07",
+      "total": 5,
+      "floorplan": 3,
+      "masterplan": 1,
+      "gallery": 1,
+      "rejected": 0,
+      "good_quality": 5,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-14 15:33:57",
+      "total": 148,
+      "floorplan": 5,
+      "masterplan": 23,
+      "gallery": 120,
+      "rejected": 0,
+      "good_quality": 11,
+      "bad_quality": 137
+    },
+    {
+      "date": "2026-03-14 15:43:33",
+      "total": 148,
+      "floorplan": 5,
+      "masterplan": 23,
+      "gallery": 120,
+      "rejected": 0,
+      "good_quality": 11,
+      "bad_quality": 137
+    },
+    {
+      "date": "2026-03-14 16:15:20",
+      "total": 148,
+      "floorplan": 5,
+      "masterplan": 23,
+      "gallery": 120,
+      "rejected": 0,
+      "good_quality": 11,
+      "bad_quality": 137
+    },
+    {
+      "date": "2026-03-14 16:36:30",
+      "total": 148,
+      "floorplan": 5,
+      "masterplan": 23,
+      "gallery": 120,
+      "rejected": 0,
+      "good_quality": 11,
+      "bad_quality": 137
+    },
+    {
+      "date": "2026-03-14 17:03:19",
+      "total": 148,
+      "floorplan": 5,
+      "masterplan": 23,
+      "gallery": 120,
+      "rejected": 0,
+      "good_quality": 11,
+      "bad_quality": 137
+    },
+    {
+      "date": "2026-03-14 17:34:49",
+      "total": 119,
+      "floorplan": 4,
+      "masterplan": 15,
+      "gallery": 100,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 119
+    },
+    {
+      "date": "2026-03-14 17:53:47",
+      "total": 119,
+      "floorplan": 4,
+      "masterplan": 15,
+      "gallery": 100,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 119
+    },
+    {
+      "date": "2026-03-14 17:59:37",
+      "total": 119,
+      "floorplan": 4,
+      "masterplan": 15,
+      "gallery": 100,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 119
+    },
+    {
+      "date": "2026-03-14 18:12:17",
+      "total": 119,
+      "floorplan": 4,
+      "masterplan": 15,
+      "gallery": 100,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 119
+    },
+    {
+      "date": "2026-03-16 11:18:28",
+      "total": 145,
+      "floorplan": 6,
+      "masterplan": 16,
+      "gallery": 123,
+      "rejected": 0,
+      "good_quality": 8,
+      "bad_quality": 137
+    },
+    {
+      "date": "2026-03-16 11:45:37",
+      "total": 127,
+      "floorplan": 5,
+      "masterplan": 12,
+      "gallery": 110,
+      "rejected": 0,
+      "good_quality": 8,
+      "bad_quality": 119
+    },
+    {
+      "date": "2026-03-16 12:03:39",
+      "total": 112,
+      "floorplan": 5,
+      "masterplan": 11,
+      "gallery": 96,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 112
+    },
+    {
+      "date": "2026-03-16 12:56:32",
+      "total": 112,
+      "floorplan": 5,
+      "masterplan": 11,
+      "gallery": 96,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 112
+    },
+    {
+      "date": "2026-03-16 13:47:42",
+      "total": 119,
+      "floorplan": 4,
+      "masterplan": 15,
+      "gallery": 100,
+      "rejected": 0,
+      "good_quality": 14,
+      "bad_quality": 105
+    },
+    {
+      "date": "2026-03-16 13:51:06",
+      "total": 85,
+      "floorplan": 3,
+      "masterplan": 6,
+      "gallery": 76,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 85
+    },
+    {
+      "date": "2026-03-16 16:49:11",
+      "total": 85,
+      "floorplan": 3,
+      "masterplan": 6,
+      "gallery": 76,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 85
+    },
+    {
+      "date": "2026-03-16 16:58:24",
+      "total": 85,
+      "floorplan": 3,
+      "masterplan": 6,
+      "gallery": 76,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 85
+    },
+    {
+      "date": "2026-03-16 17:04:35",
+      "total": 85,
+      "floorplan": 3,
+      "masterplan": 6,
+      "gallery": 76,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 85
+    },
+    {
+      "date": "2026-03-16 17:21:53",
+      "total": 85,
+      "floorplan": 3,
+      "masterplan": 6,
+      "gallery": 76,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 85
+    },
+    {
+      "date": "2026-03-16 17:53:28",
+      "total": 85,
+      "floorplan": 3,
+      "masterplan": 6,
+      "gallery": 76,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 85
+    },
+    {
+      "date": "2026-03-16 17:57:17",
+      "total": 85,
+      "floorplan": 3,
+      "masterplan": 6,
+      "gallery": 76,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 85
+    },
+    {
+      "date": "2026-03-16 18:02:16",
+      "total": 85,
+      "floorplan": 3,
+      "masterplan": 6,
+      "gallery": 76,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 85
+    },
+    {
+      "date": "2026-03-16 18:08:10",
+      "total": 85,
+      "floorplan": 3,
+      "masterplan": 6,
+      "gallery": 76,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 85
+    },
+    {
+      "date": "2026-03-16 18:19:23",
+      "total": 112,
+      "floorplan": 5,
+      "masterplan": 11,
+      "gallery": 96,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 112
+    },
+    {
+      "date": "2026-03-17 10:16:20",
+      "total": 1,
+      "floorplan": 1,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-03-17 10:56:45",
+      "total": 302,
+      "floorplan": 1,
+      "masterplan": 28,
+      "gallery": 273,
+      "rejected": 0,
+      "good_quality": 25,
+      "bad_quality": 277
+    },
+    {
+      "date": "2026-03-17 11:58:50",
+      "total": 155,
+      "floorplan": 2,
+      "masterplan": 14,
+      "gallery": 139,
+      "rejected": 0,
+      "good_quality": 11,
+      "bad_quality": 144
+    },
+    {
+      "date": "2026-03-17 17:22:24",
+      "total": 181,
+      "floorplan": 8,
+      "masterplan": 8,
+      "gallery": 165,
+      "rejected": 0,
+      "good_quality": 18,
+      "bad_quality": 163
+    },
+    {
+      "date": "2026-03-17 18:27:04",
+      "total": 127,
+      "floorplan": 3,
+      "masterplan": 3,
+      "gallery": 121,
+      "rejected": 0,
+      "good_quality": 0,
+      "bad_quality": 127
+    },
+    {
+      "date": "2026-04-07 14:51:37",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 1,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-04-07 14:56:51",
+      "total": 2,
+      "floorplan": 2,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 2,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-04-07 15:02:08",
+      "total": 2,
+      "floorplan": 2,
+      "masterplan": 0,
+      "gallery": 0,
+      "rejected": 0,
+      "good_quality": 2,
+      "bad_quality": 0
+    },
+    {
+      "date": "2026-04-07 15:12:20",
+      "total": 1,
+      "floorplan": 0,
+      "masterplan": 0,
+      "gallery": 1,
+      "rejected": 0,
+      "good_quality": 1,
+      "bad_quality": 0
+    }
+  ]
+}
