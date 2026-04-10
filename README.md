@@ -1,140 +1,166 @@
-🏠 Homes247 Premium Image Processing System
+# 🏠 Homes247 Premium Image Processing
 
-An advanced AI-powered Streamlit application for automating real estate image processing workflows including classification, enhancement, text removal, resizing, watermarking, and quality analysis.
+## 📌 Overview
 
-🚀 Features
-🔍 AI-Based Classification
-Automatically classifies images into:
-Floor Plan
-Master Plan
-Gallery
-Rejected
-🧹 OCR Text & Logo Removal
-Uses EasyOCR + OpenCV
-Removes:
-Watermarks
-Logos
-Edge text
-Legends (plans)
-🌟 Super Resolution (AI Upscaling)
-Powered by Real-ESRGAN
-Supports:
-×2, ×4 upscale
-Tile-based processing for large images
-📐 Smart Resize Engine
-Auto resize based on category:
-Floor Plan → 1500×1500
-Master Plan → 1640×860
-Gallery → 820×430
-🏷️ Watermark Integration
-Center-based watermark
-Adjustable opacity & size
-Auto compression after watermark
-📊 Quality Detection (Blur-Based)
-Uses Laplacian Variance
-Normalized to 500×500
-Classifies:
-Good Quality
-Bad Quality
-⚡ Batch Processing
-Process multiple images at once
-Full pipeline automation
-📦 Export & Reports
-CSV + JSON reports
-ZIP download with categorized images
-Session logs & analytics
-☁️ Cloud Upload (R2 Integration)
-Upload only Good Quality images
+Homes247 Premium Image Processing is an AI-powered Streamlit application designed to automate and optimize real estate image workflows. It intelligently processes images through a structured pipeline ensuring high-quality, standardized, and production-ready outputs.
 
-Structured storage:
+---
 
-category/filename
-🔄 Processing Pipeline
-Text Removal → Super Resolution → Resize → Watermark → Save
+## 🚀 Key Features
 
-✔ Fully automated
-✔ Error-handled
-✔ Scalable
+### 🤖 AI-Based Image Classification
 
-🧠 Technologies Used
-Frontend: Streamlit
-AI/ML:
-TensorFlow (Image Classification)
-PyTorch (Real-ESRGAN, MobileNet)
-Computer Vision:
-OpenCV
-EasyOCR
-Image Processing:
-PIL (Pillow)
-Cloud:
-Cloudflare R2 (S3-compatible)
-📂 Project Structure
-├── app.py
-├── weights/
-├── api_output/
-│   ├── floorplan/
-│   ├── masterplan/
-│   ├── gallery/
-│   └── rejected/
-├── session_reports/
-├── upload_history.json
-├── api_processing_statistics.json
-└── watermark_logo.png
-⚙️ Installation
-1️⃣ Clone the Repository
-git clone <your-repo-link>
-cd project-folder
-2️⃣ Install Dependencies
+* Automatically classifies images into:
+
+  * Floor Plan
+  * Master Plan
+  * Gallery
+  * Rejected
+* Uses TensorFlow deep learning model
+
+### 🧹 OCR-Based Text & Logo Removal
+
+* Detects unwanted text, watermarks, and logos
+* Uses EasyOCR + OpenCV
+* Smart edge detection and masking
+
+### 🌟 Super Resolution (AI Upscaling)
+
+* Powered by Real-ESRGAN
+* Enhances image clarity and resolution
+* Supports multiple upscale modes (×2, ×4)
+
+### 📐 Smart Resizing
+
+* Auto-resizes based on category:
+
+  * Floor Plan → 1500×1500
+  * Master Plan → 1640×860
+  * Gallery → 820×430
+
+### 🏷️ Watermark Integration
+
+* Adds branding logo automatically
+* Adjustable opacity and size
+
+### 📊 Quality Detection (Blur Analysis)
+
+* Uses Laplacian Variance
+* Size-normalized (500×500)
+* Classifies images into:
+
+  * Good Quality
+  * Bad Quality
+
+### ⚡ Batch Processing
+
+* Process multiple images simultaneously
+* Generates reports and statistics
+
+### ☁️ Cloud Upload (R2 Storage)
+
+* Automatically uploads good-quality images
+* Structured storage by category
+
+---
+
+## 🔄 Processing Pipeline
+
+The system follows a strict and optimized workflow:
+
+```
+1. Image Upload
+2. AI Classification
+3. Quality Check (Blur Detection)
+4. Text & Logo Removal (OCR + Inpainting)
+5. Super Resolution (Optional AI Upscale)
+6. Smart Resize (Category Based)
+7. Watermark Application
+8. Final Output Save
+9. Cloud Upload (Optional)
+10. Report Generation (CSV + JSON + ZIP)
+```
+
+---
+
+## 📁 Output Structure
+
+```
+api_output/
+ ├── floorplan/
+ │   ├── good_quality/
+ │   └── bad_quality/
+ ├── masterplan/
+ ├── gallery/
+ ├── rejected/
+```
+
+---
+
+## 📊 Reports Generated
+
+* CSV Report
+* JSON Report
+* Session Summary
+* ZIP Download Package
+
+Includes:
+
+* Category distribution
+* Quality stats
+* Confidence scores
+* Processing logs
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** Streamlit
+* **AI Models:** TensorFlow, PyTorch (Real-ESRGAN)
+* **Image Processing:** OpenCV, PIL
+* **OCR:** EasyOCR
+* **Cloud:** Cloudflare R2 (S3 Compatible)
+
+---
+
+## ⚙️ Installation
+
+```bash
 pip install -r requirements.txt
-3️⃣ Run Application
 streamlit run app.py
-📌 Configuration
-Key Settings:
-Output Format: WEBP / JPEG / PNG
-Confidence Threshold
-Blur Threshold (default: 500)
-SR Model Selection
-Batch Processing Toggle
-📊 Quality Logic
-Uses Laplacian Variance
-Example:
-Sharp Image → ~2800 ✅
-Blurry Image → ~200 ❌
-📁 Output Naming Format
-CATEGORY-YYYYMMDD-HHMMSS.webp
+```
 
-Example:
+---
 
-GALLERY-20260410-153045.webp
-📈 Reports Included
-Processing Summary
-Category-wise Distribution
-Quality Metrics
-Confidence Scores
-Text Removal %
-🔐 Error Handling
-Safe fallback for:
-OCR failure
-SR failure
-Image read issues
-Automatic retries for:
-File naming conflicts
-Model loading
-🌐 API & Server Integration
-Sends results to external server
-Supports:
-API Key authentication
-JSON payload
-☁️ Cloud Upload Logic
-Only uploads Good Quality images
-Skips invalid files
-Retry-safe mechanism
-🎯 Use Cases
-Real Estate Portals
-Property Listing Automation
-Bulk Image Optimization
-Image Cleaning & Standardization
-👨‍💻 Developed By
+## 📌 Configuration
 
-Midddi Yogananda Reddy
-📧 Email: yogireddymiddi2004@gmail.com
+* Update model path for classifier.h5
+* Configure watermark_logo.png
+* Set output format (WEBP / JPEG / PNG)
+* Adjust quality threshold (recommended: 500)
+
+---
+
+## 📈 Performance Highlights
+
+* Fully automated pipeline
+* High-speed batch processing
+* AI-driven enhancement
+* Production-ready outputs
+
+---
+
+## 👨‍💻 Developed By
+
+**Midddi Yogananda Reddy**
+📧 Email: [yogireddymiddi2004@gmail.com](mailto:yogireddymiddi2004@gmail.com)
+
+---
+
+## ⭐ Final Note
+
+This system is built for real estate platforms to automate image preprocessing at scale, ensuring consistent quality, branding, and optimization with minimal manual effort.
+
+---
+
+✨ *Smart. Automated. Scalable.*
